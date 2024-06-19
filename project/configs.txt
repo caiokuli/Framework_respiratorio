@@ -1,0 +1,12 @@
+qtd_amostras=1024
+taxa_amostragem=48000
+hopsize = 0,5
+delta=0,25
+fftWindow=Triangular
+filtro=Hilbert
+faixa_frequencia=1800-4200
+quantidade_filterbank=13
+frequencia_max_mel=4200
+filterBankType=Triangular
+mfccMetric=median
+
